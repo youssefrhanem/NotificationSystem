@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¤§î˜8ƒêáÎ‰2
+X
+java:S1128";Remove this unused import 'org.rhanem.api.NotificationAPI'.(şë¡‰8ƒêáÎ‰2
+_
+java:S1128"BRemove this unused import 'org.rhanem.service.NotificationClient'.(ÏÕ¶ô8„êáÎ‰2
+i
+java:S1128"LRemove this unused import 'org.rhanem.service.impl.EmailNotificationClient'.(İ•ëë8„êáÎ‰2
+‚
+java:S1128":Remove this unused import 'javax.management.Notification'.(š¸“­üÿÿÿÿ8úŞïË‰2J$2bc430ae-80d5-4724-855a-a752848e469b
